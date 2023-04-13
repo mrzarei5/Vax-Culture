@@ -8,8 +8,7 @@ the entities criticized and supported in each tweet and the communicated message
 ### Installation
 Create a conda environment and install dependencies:
 ```conda create --name Vax_Culture --file requirements.txt`
-conda activate Vax_Culture
-```
+conda activate Vax_Culture```
 
 ### Dataset
 1. Download the dataset from [link](address will be added) and extract it in `dataset_dir`. 
