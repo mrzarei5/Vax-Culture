@@ -10,7 +10,7 @@ conda activate Vax_Culture
 ```
 
 ### Dataset
-1. Copy the contents of Vax-Culture dataset directory [(link)]('https://github.com/mrzarei5/Vax-Culture/tree/main/dataset) to `filelists`. 
+1. Copy the contents of Vax-Culture dataset directory [(link)](https://github.com/mrzarei5/Vax-Culture/tree/main/dataset) to `filelists`. 
 
 2. Pull the tweets using their provided unique identifiers from Twitter and append their texts to `filelists/Vax_Culture.csv` under the column name `tweet_text`. (Any subset of the tweets in `Vax_Culture.csv` can be dropped. Just remember not to alter the header of columns.)
 
