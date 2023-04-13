@@ -1,5 +1,5 @@
 # Vax-Culture: A Dataset for Studying Vaccine Discourse on Twitter
-This is the dataset and code repository for ['Vax-Culture: A Dataset for Studying Vaccine Discourse on Twitter'](address will be added). In this paper, we presented Vax-Culture, a data set of vaccine-related Tweets and annotated them with the help of a team of annotators with a background in communications and journalism. Please refer to [dataset](https://github.com/mrzarei5/Vax-Culture/dataset) for additional descriptions and to download dataset files. This repository also hosts the codes for the five baseline tasks introduced in our paper including four classification and one sequence generation tasks on Vax-Culture dataset.
+This is the dataset and code repository for ['Vax-Culture: A Dataset for Studying Vaccine Discourse on Twitter'](address will be added). In this paper, we present Vax-Culture, a data set of vaccine-related Tweets, manuallt annotated with the help of a team of annotators with a background in communications and journalism. Please refer to [dataset](https://github.com/mrzarei5/Vax-Culture/dataset) for dataset structure and to download dataset files. This repository also hosts the codes for the five baseline tasks introduced in our paper including four classification and one sequence generation tasks on Vax-Culture dataset.
 
 ## Requirements
 ### Installation
