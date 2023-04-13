@@ -5,7 +5,7 @@ This is the dataset and code repository for ['Vax-Culture: A Dataset for Studyin
 ### Installation
 Create a conda environment and install dependencies:
 ```bash
-conda create --name Vax_Culture --file requirements.txt`
+conda create --name Vax_Culture --file requirements.txt
 conda activate Vax_Culture
 ```
 
