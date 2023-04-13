@@ -19,7 +19,7 @@ conda activate Vax_Culture
 python prepare_datasets.py
 ```
 
-###Classification Tasks
+### Classification Tasks
 Run `classification.py` with the desired model and problem task:
 ```bash
 python classification.py --model_name Bert_base --problem communicated_message
@@ -27,7 +27,7 @@ python classification.py --model_name Bert_base --problem communicated_message
 Parameter `model_name` can be selected from `Bertweet`, `Bert_base`, `Bert_large`, `Roberta_base` and `Roberta_large` for any of the four classification problem tasks.
 Parameter `problem` can be selected from any of the values: `inaccurate_or_misleadning` for misleading or inaccurate information detection task, `communicated_message` for communicated message prediction task, `multilabel_criticism` for subjects of criticism prediction task, `multilabel_support` for subjects of support/promote prediction task.
 
-###Text Generation Task
+### Text Generation Task
 Run `generation.py` with the desired model:
 ```bash
 python generation.py --model_name Bart_large --problem gen
