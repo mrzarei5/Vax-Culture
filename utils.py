@@ -8,7 +8,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--num_workers', type=int, default=12, help='Number of workers for datasets')
     parser.add_argument('--dataset_dir', default='./dataset_dir', help='dataset location')
-    parser.add_argument('--model_name',default='', help= 'select model name from Bart_large, T5_base, T5_large, Bertweet, Bert_base, Bert_large, Roberta_base, Roberta_large')
+    parser.add_argument('--model_name',default='', help= 'select model name from Bertweet, Bert_base, Bert_large, Roberta_base, Roberta_large, Bart_large, T5_large')
     parser.add_argument('--epochs', type = int, default=40, help='Number of training epochs')
     parser.add_argument('--problem', default='', help='select problem name from inaccurate_or_misleadning, communicated_message, multilabel_criticism, multilabel_support, gen')
     
