@@ -1,5 +1,5 @@
 # Vax-Culture: A Dataset for Studying Vaccine Discourse on Twitter
-This is the dataset and code repository for ['Vax-Culture: A Dataset for Studying Vaccine Discourse on Twitter'](address will be added). In this paper, we present Vax-Culture, a data set of vaccine-related Tweets, manually annotated with the help of a team of annotators with a background in communications and journalism. Please refer to [dataset](https://github.com/mrzarei5/Vax-Culture/dataset) for dataset structure and to download dataset files. This repository also hosts the codes for the five baseline tasks introduced in our paper including four classification and one sequence generation tasks on Vax-Culture dataset.
+This is the dataset and code repository for ['Vax-Culture: A Dataset for Studying Vaccine Discourse on Twitter'](address will be added). In this paper, we present Vax-Culture, a data set of vaccine-related Tweets, manually annotated with the help of a team of annotators with a background in communications and journalism. Please refer to [dataset](https://github.com/mrzarei5/Vax-Culture/tree/main/dataset) for more information and to download dataset files. This repository also hosts the codes for the five baseline tasks introduced in our paper including four classification and one sequence generation tasks on Vax-Culture dataset.
 
 ## Requirements
 ### Installation
@@ -10,7 +10,7 @@ conda activate Vax_Culture
 ```
 
 ### Dataset
-1. Copy the contents of Vax-Culture dataset directory [link]('https://github.com/mrzarei5/Vax-Culture/dataset') to `filelists`. 
+1. Copy the contents of Vax-Culture dataset directory [(link)]('https://github.com/mrzarei5/Vax-Culture/tree/main/dataset) to `filelists`. 
 
 2. Pull the tweets using their provided unique identifiers from Twitter and append their texts to `filelists/Vax_Culture.csv` under the column name `tweet_text`. (Any subset of the tweets in `Vax_Culture.csv` can be dropped. Just remember not to alter the header of columns.)
 
