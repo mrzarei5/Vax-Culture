@@ -1,5 +1,5 @@
 # Vac-Culture Dataset
-Vax-Culture consists of 6373 manually annotated vaccine-related English tweets. The human-provided annotations include vaccine-hesitancy stance, indication of any misinformation in tweet, the entities criticized and supported in each tweet and the communicated message of each tweet. Please refer to ['Vax-Culture: A Dataset for Studying Vaccine Discourse on Twitter'](address will be added) for additional information regarding the collection and annotation procedures of Vax-Culture.
+Vax-Culture consists of 6373 manually annotated vaccine-related English tweets. The human-provided annotations include vaccine-hesitancy stance, indication of any misinformation in tweet, the entities criticized and supported in each tweet and the communicated message of each tweet. Please refer to ['Vax-Culture: A Dataset for Studying Vaccine Discourse on Twitter'](https://arxiv.org/abs/2304.06858) for additional information regarding the collection and annotation procedures of Vax-Culture.
 
 ## Directory Structure
 
